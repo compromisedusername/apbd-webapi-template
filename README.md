@@ -1,1 +1,1 @@
-# apbd-webapi-template
+# simple webapi project template
